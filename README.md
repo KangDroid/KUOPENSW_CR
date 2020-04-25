@@ -7,3 +7,10 @@ KU_OPENSW CR HW
 
 단순히 라이프니츠 급수를 사용해 원주율을 계산하며,
 - 코드 반복 횟수는 1000000[백만번]으로 제한하였습니다.
+
+사용 환경
+---------
+사용 환경은 다음과 같습니다.
+|운영체제|JDK 버전|실행 Shell| 
+|:--:|:--:|:--:|
+|Ubuntu 18.04<br>(Windows Subsystem for Linux)|OpenJDK 11.0.7|Bash(UTF-8)|
